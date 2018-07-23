@@ -1,5 +1,5 @@
 # atom-flow
-atom.io support for haxe flow build tool
+atom.io support for haxe flõw build tool
 http://snowkit.org/flow
 
 ## Active development
